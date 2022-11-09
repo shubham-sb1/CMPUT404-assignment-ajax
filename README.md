@@ -12,4 +12,5 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+Additions to server.py and index.html is LICENSE'D under the Apache 2 license by Shubham Bajoria.
 
